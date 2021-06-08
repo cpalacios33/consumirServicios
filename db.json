@@ -1,8 +1,8 @@
 {
 "users": [
 {"id":1, "name": "Carlos Palacios", "username": "CPalacios", "email": "carlos@gmail.com", "image":"https://i.ibb.co/2qWct09/helados.jpga"},
-"id":2, "name": "Rene Palacios", "username": "RPalacios", "email": "reneP@gmail.com", "image":"https://i.ibb.co/2qWct09/helados.jpg"},
-"id":3, "name": "Rene Vargas", "username": "RVargas", "email": "reneV@gmail.com", "image":"https://i.ibb.co/2qWct09/helados.jpg"}
+ {"id":2, "name": "Rene Palacios", "username": "RPalacios", "email": "reneP@gmail.com", "image":"https://i.ibb.co/2qWct09/helados.jpg"},
+ {"id":3, "name": "Rene Vargas", "username": "RVargas", "email": "reneV@gmail.com", "image":"https://i.ibb.co/2qWct09/helados.jpg"}
 ],
  "posts": [
   { "id": 1, "title": "¿Porque adoptar animales?", "body": "pienso que es importante adoptar porque.....", "userId": 1 },
