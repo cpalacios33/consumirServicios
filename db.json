@@ -1,17 +1,16 @@
 {
-	"users": [
-	{"id":1, "name": "Carlos Palacios", "username": "CPalacios", "email": "carlos@gmail.com", "image":"https://iibb.co/ZH73560/cody.jpg"},
-	"id":2, "name": "Rene Palacios", "username": "RPalacios", "email": "reneP@gmail.com", "image":"https://iibb.co/ZH73560/cody.jpg"},
-	"id":3, "name": "Rene Vargas", "username": "RVargas", "email": "reneV@gmail.com", "image":"https://iibb.co/ZH73560/cody.jpg"}
-	],
-	"posts": [
-		"posts": [
-		{ "id": 1, "title": "¿Porque adoptar animales?", "body": "pienso que es importante adoptar porque.....", "userId": 1 },
-		{ "id": 2, "title": "¿Porque adoptar mascotas?", "body": "pienso que es importante adoptar porque.....", "userId": 2 },
-		{ "id": 3, "title": "¿Porque adoptar niños?", "body": "pienso que es importante adoptar porque.....", "userId": 3 }
-	],
-	"comments": [
-		{"id": 1, "body": "some comments", "postId": 1},
-		{"id": 2, "body": "some comments", "postId": 2}
-	]
+"users": [
+{"id":1, "name": "Carlos Palacios", "username": "CPalacios", "email": "carlos@gmail.com", "image":"https://iibb.co/ZH73560/cody.jpg"},
+"id":2, "name": "Rene Palacios", "username": "RPalacios", "email": "reneP@gmail.com", "image":"https://iibb.co/ZH73560/cody.jpg"},
+"id":3, "name": "Rene Vargas", "username": "RVargas", "email": "reneV@gmail.com", "image":"https://iibb.co/ZH73560/cody.jpg"}
+],
+ "posts": [
+  { "id": 1, "title": "¿Porque adoptar animales?", "body": "pienso que es importante adoptar porque.....", "userId": 1 },
+  { "id": 2, "title": "¿Porque adoptar mascotas?", "body": "pienso que es importante adoptar porque.....", "userId": 2 },
+  { "id": 3, "title": "¿Porque adoptar niños?", "body": "pienso que es importante adoptar porque.....", "userId": 3 }
+ ],
+ "comments": [
+  {"id": 1, "body": "some comments", "postId": 1},
+  {"id": 2, "body": "some comments", "postId": 2}
+ ]
 }
